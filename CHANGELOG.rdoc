@@ -6,3 +6,8 @@
 == 0.0.1 (November 14, 2011)
 
 * add 'cap rvm:gemset:create'
+
+== 0.0.2 (November 14, 2011)
+
+* update Manifest
+* add description to task
