@@ -1,13 +1,13 @@
-== (unreleased)
+== 0.0.2 (November 14, 2011)
 
-* add description in README
-* add MIT license
+* update Manifest
+* add description to task
 
 == 0.0.1 (November 14, 2011)
 
 * add 'cap rvm:gemset:create'
 
-== 0.0.2 (November 14, 2011)
+== (unreleased)
 
-* update Manifest
-* add description to task
+* add description in README
+* add MIT license
